@@ -1,0 +1,354 @@
+.header-logo{
+    
+    font-size: 50px;
+    margin-top: 40px;
+    margin-bottom:-30px;
+    position: relative;left: 190px;
+    width: 100px;
+    
+}
+
+
+
+
+
+
+.header-theme{
+    position: relative;left: 150px;
+    list-style: none;
+    display: inline;
+    width: 130px;
+    
+    
+}
+
+.menue{
+    position: relative;left: 400px;
+    width: 700px;
+}
+.menue a{
+    margin-right: 30px;
+    text-decoration: none;
+    color: black;
+}
+.form1{
+    position: relative;left: 600px;bottom: 25px;
+    margin-right: 100px;
+}
+
+
+
+.header-theme,a{
+    float: left;
+}
+.copy-container{
+    width: 1200px;
+}
+
+
+
+
+
+
+.jpg1{
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.copy-container p{
+    margin-left: 220px;
+    font-size: 25px;
+    color: gray;
+    
+}
+
+
+.text1 h4{
+    float: left;
+    clear: both;
+    color: grey;
+}
+.text1 p{
+    color: grey;
+}
+.text1 a,.text1 p{
+    position: relative;left: 240px;
+    position: relative;top: 15px;
+}
+.text1{
+    width: 1200px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+
+.text2 h4{
+    float: left;
+    clear: both;
+    color: grey;
+    margin-bottom: 50px;
+}
+.text2 p{
+    color: grey;
+}
+.text2 a,.text2 p{
+    position: relative;left: 240px;
+    position: relative;top: 15px;
+}
+.text2{
+    width: 1200px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+}
+
+.text3 h4{
+    float: left;
+    clear: both;
+    color: grey;
+    margin-bottom: 50px;
+}
+.text3 p{
+    color: grey;
+}
+.text3 a,.text3 p{
+    position: relative;left: 240px;
+    position: relative;top: 15px;
+}
+.text3{
+    width: 1200px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+}
+
+.text4 h4{
+    float: left;
+    clear: both;
+    color: grey;
+    margin-bottom: 50px;
+}
+.text4 p{
+    color: grey;
+}
+.text4 a,.text4 p{
+    position: relative;left: 240px;
+    position: relative;top: 15px;
+}
+.text4{
+    width: 1200px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+}
+
+.text5 h4{
+    float: left;
+    clear: both;
+    color: grey;
+    margin-bottom: 50px;
+}
+.text5 p{
+    color: grey;
+}
+.text5 a,.text5 p{
+    position: relative;left: 240px;
+    position: relative;top: 15px;
+}
+.text5{
+    width: 1200px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+}
+
+.text6 h4{
+    float: left;
+    clear: both;
+    color: grey;
+    margin-bottom: 50px;
+}
+.text6 p{
+    color: grey;
+}
+.text6 a,.text6 p{
+    position: relative;left: 240px;
+    position: relative;top: 15px;
+}
+.text6{
+    width: 1200px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+}
+
+
+
+
+
+.text1 a,.text2 a,.text3 a,.text4 a,.text5 a,.text6 a{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    
+}
+
+.button a{
+    margin-right: 30px;
+    border:grey solid 1px;
+    padding: 4px 12px;
+    font-size: 20px;
+    color: grey;
+}
+.button{
+    width: 700px;
+    position: relative;left: 550px;
+    
+}
+
+.john{
+    height: 100px;
+    position: relative;top: 200px;right: 110px
+}
+
+.john,.foo1 h3,.foo1 a{
+    float: left;
+} 
+
+.foo1 h3{
+    position: relative;top: 200px;right: 80px;
+}
+
+.foo1 a{
+    position: relative;top: 220px;right: 170px;
+    margin-right: 15px;
+}
+.foo2{
+    width: 900px;
+    position: relative;left: 270px;
+    float: left;
+    clear: both;
+}
+.foo1 p{
+    position: relative;top: 300px;right: 730px;
+    float: left;  
+}
+
+.foo1{
+    width: 1200px;
+    float: left;
+    clear: both;
+}
+
+.right h4{
+    position: relative;left:230px;top: 250px;
+
+}
+.right p{
+    position: relative;right: 655px;top: 250px;
+    width: 1450px;
+}
+.right h4{
+    width: 400px;
+}
+.right{
+    width: 1450px;
+    margin-top: 0px;
+}
+
+.nowa{
+    position: relative;left: 850px;top: 35px;
+    width: 200px;
+}
+
+.cate{
+    position: relative;left: 1100px;bottom: 300px;
+    width: 150px;
+
+    
+}
+.cate a{
+    margin-bottom: 20px;
+}
+.cate a,.nowa a,.right p,.foo1 p{
+    color: grey;
+}
+.nowa p{
+    color: grey;
+}
+.footer{
+    border-bottom: 1px grey solid;
+}
+.link3,.pby,.tby{
+    float: left;
+    position: relative;top: 50px;
+}
+
+.link3 a{
+    margin-right: 20px;
+}
+.link3{
+    position: relative;left: 170px;
+    width: 130px;
+}
+.pby{
+    position: relative;left: 350px;
+    margin-right: 10px;
+    width: 200px;
+    height: 30px;
+    border-right: grey solid;
+}
+.pby p{
+    float: left;
+    color: grey;
+    position: relative;bottom:17px ; 
+}
+.pby a{
+    position: relative;left: 5px;
+    text-decoration: none;
+    color: black;
+}
+.tby{
+    position: relative;left: 370px;bottom: px;
+    color: grey;
+    width: 70px;
+}
+.tby a{
+    position: relative;left: 70px;bottom: 55px;
+    text-decoration: none;
+    color: black;
+}
+.by{
+    position: relative;left: 80px;bottom: 55px;
+    color: grey;
+}
+.und{
+    position: relative;left: 160px;bottom: 95px;
+    color: grey;
+}
+.me{
+    position: relative;bottom: 15px;
+}
+.under{
+    width: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
